@@ -1,14 +1,13 @@
 ### Info
-This project is based on q fork of two docker container images : docker-elk, dockerprom
+This project is based on a fork of two docker container images : docker-elk and dockerprom
 ### Goal
 Goal is to monitor local host and containers' metrics like cpu usage, memory usage, http requests, network conenctions ...
 ### Results
-screen captures in out/ 
-
-http://localhost:3000/?orgId=1 
-
-playlist/dashboards/ 
-
+\begin{itemize}[label=$\square$]
+\item screen captures in out/ 
+\item http://localhost:3000/?orgId=1 
+\item playlist/dashboards/ 
+\end{itemize} 
 ### Docker Host
 ![image description](./out/screencapture-localhost-3000-d-H9DT-s14k-docker-host-yaslbk-machine.png)
 ### Docker Containers
